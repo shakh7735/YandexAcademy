@@ -18,6 +18,6 @@ int main()
                 m -= n *  pow(10,k); 
             k--;
         }
-   
+        //izmeeneniya
     std::cout << (rez) << std::endl;
 }
